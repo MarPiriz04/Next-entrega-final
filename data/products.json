@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "actron-600",
+    "title": "Actron 600",
+    "price": 196,
+    "stock": 10,
+    "description": "Analgésico y antiinflamatorio",
+    "category": "analgesicos"
+  },
+  {
+    "slug": "perifar-600",
+    "title": "Perifar 600",
+    "price": 186,
+    "stock": 10,
+    "description": "Analgésico y antiinflamatorio",
+    "category": "analgesicos"
+  },
+  {
+    "slug": "dolosedol-500",
+    "title": "Dolosedol 500",
+    "price": 199,
+    "stock": 50,
+    "description": "Analgésico y antifebril (Paracetamol)",
+    "category": "analgesicos"
+  },
+  {
+    "slug": "dolex-500",
+    "title": "Dolex 500",
+    "price": 244,
+    "stock": 50,
+    "description": "Analgésico y antifebril (Paracetamol)",
+    "category": "analgesicos"
+  },
+  {
+    "slug": "colagenol-c",
+    "title": "Colagenol C",
+    "price": 1300,
+    "stock": 30,
+    "description": "Ayuda en la mejora de las articulaciones",
+    "category": "suplementos"
+  },
+  {
+    "slug": "mega-omega-3",
+    "title": "Mega Omega 3",
+    "price": 699,
+    "stock": 30,
+    "description": "Prevención y protección cardiovascular, neurológica y articular",
+    "category": "suplementos"
+  },
+  {
+    "slug": "citrato-de-magnesio",
+    "title": "Citrato de Magnesio",
+    "price": 968,
+    "stock": 100,
+    "description": "Mejora la digestión, salud ósea y muscular, y apoya la función cardiovascular",
+    "category": "suplementos"
+  },
+  {
+    "slug": "harina-de-orujo",
+    "title": "Harina de Orujo",
+    "price": 390,
+    "stock": 100,
+    "description": "Actúa contra el envejecimiento celular y varias enfermedades",
+    "category": "suplementos"
+  },
+  {
+    "slug": "pantene-3min",
+    "title": "Pantene 3min",
+    "price": 320,
+    "stock": 10,
+    "description": "",
+    "category": "higiene"
+  },
+  {
+    "slug": "colgate-total-12",
+    "title": "Colgate Total 12",
+    "price": 230,
+    "stock": 10,
+    "description": "",
+    "category": "higiene"
+  },
+  {
+    "slug": "dove-aero-clasic",
+    "title": "Dove Aero Clasic",
+    "price": 199,
+    "stock": 10,
+    "description": "",
+    "category": "higiene"
+  },
+  {
+    "slug": "sublime-dh-x12",
+    "title": "Sublime D/H x12",
+    "price": 199,
+    "stock": 10,
+    "description": "",
+    "category": "higiene"
+  },
+  {
+    "slug": "yasmin",
+    "title": "Yasmin",
+    "price": 500,
+    "stock": 10,
+    "description": "",
+    "category": "anticonceptivos"
+  },
+  {
+    "slug": "slinda",
+    "title": "Slinda",
+    "price": 500,
+    "stock": 10,
+    "description": "",
+    "category": "anticonceptivos"
+  },
+  {
+    "slug": "divina-28",
+    "title": "Divina 28",
+    "price": 500,
+    "stock": 10,
+    "description": "",
+    "category": "anticonceptivos"
+  },
+  {
+    "slug": "divina-21",
+    "title": "Divina 21",
+    "price": 500,
+    "stock": 10,
+    "description": "",
+    "category": "anticonceptivos"
+  }
+]
