@@ -28,6 +28,20 @@ export default {
   plugins: [require("daisyui")],
   daisyui: {
     darkTheme: "esmerald",
-    themes: ["acid","esmerald"],
+    themes: [
+      "acid",
+      {
+        esmerald: {
+          ...require("daisyui/src/theming/themes")["[data-theme=esmerald]"],
+          primary: "#008000", // pharmacy-green
+          "primary-focus": "#006400", // Darker green for focus
+          "primary-content": "#FFFFFF", // pharmacy-white
+          secondary: "#90EE90", // pharmacy-light-green
+          "secondary-focus": "#7CFC00", // Brighter green for focus
+          "secondary-content": "#000000", // Black text for light green
+          // Add other colors as needed, e.g., accent, neutral, base
+        },
+      },
+    ],
   },
 };

@@ -4,18 +4,18 @@ import { useState, useEffect } from "react";
 
 const ThemeController = () => {
   // Estado para controlar el tema
-  const [theme, setTheme] = useState("light");
+  const [theme, setTheme] = useState("esmerald");
 
   // Cambia el tema cuando se inicializa el componente
   useEffect(() => {
-    const currentTheme = localStorage.getItem("theme") || "light";
+    const currentTheme = localStorage.getItem("theme") || "esmerald";
     setTheme(currentTheme);
     document.documentElement.setAttribute("data-theme", currentTheme);
   }, []);
 
   // Función para alternar el tema
   const toggleTheme = () => {
-    const newTheme = theme === "light" ? "dark" : "light";
+    const newTheme = theme === "esmerald" ? "acid" : "esmerald";
     setTheme(newTheme);
     document.documentElement.setAttribute("data-theme", newTheme);
     localStorage.setItem("theme", newTheme); // Guardar en localStorage para mantener el estado
